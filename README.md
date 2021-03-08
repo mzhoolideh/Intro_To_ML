@@ -7,4 +7,5 @@ In this part of this exercise, you will implement linear regression with one var
 The file ex1data1.txt contains the dataset for our linear regression prob- lem. The first column is the population of a city and the second column is the profit of a food truck in that city. A negative value for profit indicates a loss.
 
 **When you make a model and your computer is learned to predict profit for a given population, you will be able to draw a plot as follows:** 
-![Figure 1](fig1.png)
+
+<img src="./week1/fig1.png" />
