@@ -8,7 +8,7 @@ The file ex1data1.txt contains the dataset for our linear regression prob- lem. 
 
 **When you make a model and your computer is learned to predict profit for a given population, you will be able to draw a plot as follows:** 
 
-<img src="./week1/fig1.png" />
+<img src="./week1/fig1.png" width="100"/>
 
 ## Week 3 
 
