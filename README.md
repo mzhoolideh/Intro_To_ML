@@ -10,6 +10,14 @@ The file ex1data1.txt contains the dataset for our linear regression prob- lem. 
 
 <img src="./week1/fig1.png" width="600"/>
 
+## Week 2 
+
+### Logistic Regression
+
+In the first exercise, you will implement Logistic Regression algorithm for a binary classification problem in which you will determine whether a student will be accepted or not based on their scores in two exams.
+
+<img src="./week2/result.png" width="600"/>
+
 ## Week 3 
 
 ### Regularized Linear Regression
